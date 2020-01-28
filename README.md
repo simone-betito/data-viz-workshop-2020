@@ -4,4 +4,10 @@
 
 [Tableau Public](https://public.tableau.com/en-us/s/)
 
+[In-Class Data]()
+
+[Assignment Data]()
+
 # Week 2
+
+Data
