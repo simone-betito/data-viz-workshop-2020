@@ -4,10 +4,10 @@
 
 [Tableau Public](https://public.tableau.com/en-us/s/)
 
-[In-Class Data]()
+[In-Class Data](https://docs.google.com/spreadsheets/d/1UsLymlFXH3nhchi1-ugJf5oaiiD69S4e-nhQ928uyRA/edit?usp=sharing)
 
-[Assignment Data]()
+[Assignment Data](https://docs.google.com/spreadsheets/d/1UsLymlFXH3nhchi1-ugJf5oaiiD69S4e-nhQ928uyRA/edit?usp=sharing)
 
 # Week 2
 
-Data
+[In-Class Data](https://docs.google.com/spreadsheets/d/1UsLymlFXH3nhchi1-ugJf5oaiiD69S4e-nhQ928uyRA/edit?usp=sharing)
