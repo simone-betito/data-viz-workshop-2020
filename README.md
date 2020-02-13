@@ -12,7 +12,7 @@
 
 [In-Class Data](https://docs.google.com/spreadsheets/d/1UsLymlFXH3nhchi1-ugJf5oaiiD69S4e-nhQ928uyRA/edit?usp=sharing)
 
-[In-Class Assignment][https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards]
+[In-Class Assignment](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards)
 
 # Monitoring & Evaluation I - Feb 13 2020
 
